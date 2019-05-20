@@ -48,11 +48,6 @@
 				<i class="fa fa-github"></i>
 			</a>
 			{% endif %}
-			{% if site.author.twitter %}
-			<a type="button" class="navbar-toggle nav-link" href="http://twitter.com/{{ site.author.twitter }}">
-				<i class="fa fa-twitter"></i>
-			</a>
-			{% endif %}
 			{% if site.author.email %}
 			<a type="button" class="navbar-toggle nav-link" href="mailto:{{ site.author.email }}">
 				<i class="fa fa-envelope"></i>
@@ -98,7 +93,7 @@
 		<footer>
 			<hr/>
 			<p>
-				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} with <a href="http://jekyllrb.com/">Jekyll</a>. Theme: <a href="https://github.com/dbtek/dbyll">dbyll</a> by dbtek.
+				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} with <a href="http://jekyllrb.com/">Jekyll</a>. Theme: dbyll by dbtek.
 			</p>
 		</footer>
 	</div>
