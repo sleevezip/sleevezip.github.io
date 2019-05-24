@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Hello World!
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+title: Technical Skills
+categories: [general, skills, technical]
+tags: [skills, technical]
 fullview: true
 comments: false
 ---
-
-# Technical Skills
 <hr />
-
 <table rules="groups">
   <thead>
     <tr>
