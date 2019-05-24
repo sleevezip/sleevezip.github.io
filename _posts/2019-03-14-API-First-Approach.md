@@ -1,9 +1,10 @@
 ---
 layout: post
-categories: [api, design]
-tags: [api, design, OpenAPI]
+title: Hi, I'm Maurits,
+categories: [start
+tags: [intro]
 fullview: true
 comments: false
 ---
 
-#### Hi, i'm Maurits Bruinsma, a Technical Consultant specialized in **Microservices**
+### a Technical Consultant specialized in **Microservices**
