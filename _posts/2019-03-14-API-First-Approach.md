@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Microservices Consultatn
 categories: [api, design]
 tags: [api, design, OpenAPI]
 fullview: true
