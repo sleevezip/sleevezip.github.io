@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hi, I'm Maurits,
-categories: [start
+categories: [intro]
 tags: [intro]
 fullview: true
 comments: false
