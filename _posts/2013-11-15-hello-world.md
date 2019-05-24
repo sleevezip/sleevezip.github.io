@@ -4,13 +4,67 @@ title: Hello World!
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
-comments: true
+comments: false
 ---
 
-**dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
+# Technical Skills
+<hr />
 
-**dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
-
-### dbyll is on GitHub
-
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+<table rules="groups">
+  <thead>
+    <tr>
+      <th style="text-align: left">Skill</th>
+      <th style="text-align: center">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Java 8</td>
+      <td style="text-align: center">cell2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Java Spring Boot</td>
+      <td style="text-align: center">cell5</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">XML</td>
+      <td style="text-align: center">cell2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">API Design</td>
+      <td style="text-align: center">cell5</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">CSS</td>
+      <td style="text-align: center">cell2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Linux</td>
+      <td style="text-align: center">cell5</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">MongoDB</td>
+      <td style="text-align: center">cell2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">APIGee</td>
+      <td style="text-align: center">cell5</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Mulesoft</td>
+      <td style="text-align: center">cell2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Microservices</td>
+      <td style="text-align: center">cell5</td>
+    </tr>
+  </tbody>
+</table>
